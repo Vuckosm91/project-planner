@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Create new homepage banner",
-      "details": "Lorem ipsum",
+      "details": "Lorem ipsum pop",
       "complete": true
     },
     {
@@ -11,6 +11,12 @@
       "title": "Make marketing email",
       "details": "Lorem ipsum",
       "complete": true
+    },
+    {
+      "id": "eb4a",
+      "title": "Create a new website",
+      "details": "lorem ipsum",
+      "complete": false
     }
   ]
 }
