@@ -1,4 +1,4 @@
-@<template>
+<template>
   <form @submit.prevent="handleSubmit">
     <label>Title</label>
     <input type="text" v-model="title" required>
